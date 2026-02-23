@@ -1,0 +1,5 @@
+serever:
+    port: 8080
+
+topic:
+  name: t.food.order
